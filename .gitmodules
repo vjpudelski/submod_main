@@ -1,0 +1,3 @@
+[submodule "submod_class"]
+	path = submod_class
+	url = https://github.com/vjpudelski/submod_class.git
