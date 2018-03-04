@@ -9,6 +9,10 @@ namespace submod_main
             Console.WriteLine("Hello World!");
 
             Console.WriteLine(submod_class.Math.Add(1, 4));
+
+            Console.WriteLine(submod_class.Math.Subtract(5,2));
+
+            Console.WriteLine(submod_class.Math.Multiply(5,2));
         }
     }
 }
